@@ -39,4 +39,28 @@ This is a basic console application where users can add, view, search, and delet
 ---
 
 ## 📂 Sample Folder Structure
+student-record-system/
+├── main.c
+├── student.h
+├── students.txt (created after first run)
+├── README.md
+
+
+---
+
+## 👩‍💻 Author
+
+**Maimoona Amjid**  
+Software Engineering Student | Passionate about building C language projects and learning file handling.
+
+📫 LinkedIn: (https://www.linkedin.com/in/maimoonaamjid/)
+📁 GitHub: (https://github.com/maimoonaamjid/)
+
+---
+
+## 📌 Note
+
+This project was built using `for` loops only — no `while` or `do while` — to strengthen logic-building skills with loop control in C.
+
+
 
